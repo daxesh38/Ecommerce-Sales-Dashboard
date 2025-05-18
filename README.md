@@ -27,3 +27,7 @@ Analyze eCommerce sales data to identify:
 
 5. **Which month earned the highest profit?**  
    → November saw the highest profit spike.
+
+## 📷 Dashboard Preview
+
+<a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/ECOM%20SALES%20DASHBOARD.pbix">View Dashboard</a>
