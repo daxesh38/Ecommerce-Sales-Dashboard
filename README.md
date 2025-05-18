@@ -1,3 +1,9 @@
-# Ecommerce Sales Dashboard
-# Project Objective
-To analyze eCommerce sales performance using Power BI by identifying top-performing states, customers, categories, and payment modes, and visualizing profit trends over time.
+# 🛒 Ecommerce Sales Dashboard – Power BI Project
+
+## 📌 Project Objective
+Analyze eCommerce sales data to identify:
+- Top-performing **states** and **customers**
+- Best-selling **categories** and **sub-categories**
+- Most-used **payment modes**
+- **Monthly** profit trends
+- KPIs like **Total Sales**, **Quantity**, **Profit**, and **AOV**
