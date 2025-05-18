@@ -46,3 +46,14 @@ Practiced:
 ## 📷 Dashboard Preview
 
 ![Ecommerce Dashboard](https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Ecom%20sales%20dashboard%20snip.jpg)
+
+---
+
+## 🔍 Project Insights
+
+- 📍 **Maharashtra** is the top-performing state in terms of total sales.
+- 🧍‍♂️ **Harivansh** is the highest spending customer.
+- 🧥 **Clothing** category contributes to **63%** of total quantity sold.
+- 💳 **Cash on Delivery (COD)** is the most preferred payment method (used in 44% of transactions).
+- 📆 **November** saw the highest monthly profit, while **May** had the lowest.
+- 🧾 The overall **Total Sales** crossed ₹4.3 Lakhs, with a **profit** of ₹37K and an **AOV** (Average Order Value) of ₹121K.
