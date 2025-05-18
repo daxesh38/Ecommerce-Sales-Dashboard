@@ -9,5 +9,5 @@ Analyze eCommerce sales data to identify:
 - KPIs like **Total Sales**, **Quantity**, **Profit**, and **AOV**
 
 ## 📁 Dataset Used
-- Details.CSV https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Details.csv
-- Orders.CSV https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Orders.csv
+- <a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Details.csv">Details</a>
+- <a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Orders</a>
