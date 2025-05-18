@@ -31,3 +31,14 @@ Analyze eCommerce sales data to identify:
 ## 📷 Dashboard Preview
 
 <a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/ECOM%20SALES%20DASHBOARD.pbix">View Dashboard</a>
+
+## 🧠 What I Learned
+Power BI is easier than Excel when it comes to data visualization.  
+Just drag and drop the right fields and choose visuals that tell your data story well!  
+Practiced:
+- Creating slicers and dynamic filters  
+- Designing clean dashboards  
+- Using **KPI cards** for summary metrics
+
+## 📚 Learning Source
+[Rishabh Mishra YouTube Channel](https://www.youtube.com/watch?v=6cV3OwFrOkk)
