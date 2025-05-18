@@ -1,2 +1,2 @@
-# Ecommerce-Sales-Dashboard
-📊 Ecommerce Sales Dashboard built in Power BI showcasing top states, customers, categories, and monthly profits using real sales data.
+📌 Project Objective
+To analyze eCommerce sales performance using Power BI by identifying top-performing states, customers, categories, and payment modes, and visualizing profit trends over time.
