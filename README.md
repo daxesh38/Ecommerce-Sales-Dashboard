@@ -42,3 +42,7 @@ Practiced:
 
 ## 📚 Learning Source
 [Rishabh Mishra YouTube Channel](https://www.youtube.com/watch?v=6cV3OwFrOkk)
+
+## 📷 Dashboard Preview
+
+![Ecommerce Dashboard](https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Ecom%20sales%20dashboard%20snip.jpg)
