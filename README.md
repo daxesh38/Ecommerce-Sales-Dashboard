@@ -7,3 +7,7 @@ Analyze eCommerce sales data to identify:
 - Most-used **payment modes**
 - **Monthly** profit trends
 - KPIs like **Total Sales**, **Quantity**, **Profit**, and **AOV**
+
+## 📁 Dataset Used
+- Details.CSV https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Details.csv
+- Orders.CSV https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Orders.csv
