@@ -1,4 +1,12 @@
-# 🛒 Ecommerce Sales Dashboard – Power BI Project
+# 🛒 Ecommerce Sales Dashboard
+
+**[🌐 View Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2Y0NDA1ZjgtZDEwNC00NDMwLTkxYTgtNDE0MTU0NjQwYTM1IiwidCI6IjY2ZGNhNGQyLTU0ZDktNDhiOC1hZDFhLTliOWUwNmRiMGQ5MCJ9)** | 📊 **[Download .pbix File](ECOM%20SALES%20DASHBOARD.pbix)**
+
+---
+
+## 📷 Dashboard Preview
+
+![Ecommerce Dashboard](Ecom%20sales%20dashboard%20snip.jpg)
 
 ## 📌 Project Objective
 Analyze eCommerce sales data to identify:
@@ -9,8 +17,8 @@ Analyze eCommerce sales data to identify:
 - KPIs like **Total Sales**, **Quantity**, **Profit**, and **AOV**
 
 ## 📁 Dataset Used
-- <a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Details.csv">Details</a>
-- <a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Orders</a>
+- [Details CSV](https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Details.csv)
+- [Orders CSV](https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Orders.csv)
 
 ## ❓ Key Questions Answered
 1. **Which state has the highest sales?**  
@@ -28,24 +36,14 @@ Analyze eCommerce sales data to identify:
 5. **Which month earned the highest profit?**  
    → November saw the highest profit spike.
 
-## 📷 Dashboard Preview
-
-<a href="https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/ECOM%20SALES%20DASHBOARD.pbix">View Dashboard</a>
-
 ## 🧠 What I Learned
-Power BI is easier than Excel when it comes to data visualization.  
-Just drag and drop the right fields and choose visuals that tell your data story well!  
-Practiced:
-- Creating slicers and dynamic filters  
-- Designing clean dashboards  
-- Using **KPI cards** for summary metrics
+Power BI is powerful for interactive data visualization. Key skills practiced:
+- Creating slicers and dynamic filters.  
+- Designing clean, professional dashboards.  
+- Using **KPI cards** for executive summary metrics.
 
 ## 📚 Learning Source
-[Rishabh Mishra YouTube Channel](https://www.youtube.com/watch?v=6cV3OwFrOkk)
-
-## 📷 Dashboard Preview
-
-![Ecommerce Dashboard](https://github.com/daxesh38/Ecommerce-Sales-Dashboard/blob/main/Ecom%20sales%20dashboard%20snip.jpg)
+- Guided by [Rishabh Mishra's YouTube Channel](https://www.youtube.com/watch?v=6cV3OwFrOkk).
 
 ---
 
